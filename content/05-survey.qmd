@@ -1,0 +1,70 @@
+---
+title: "Working with Survey Data"
+---
+
+[//]: <> (Need to write intro)
+
+## Monday, September 18
+
+### Reading
+
+1. *DASS.* Chapter 3: pp. 51-54.
+
+
+
+---
+
+
+## Wednesday, September 20
+
+### Reading
+
+1. *DASS.* Chapter 3: pp. 55-66.
+
+---
+
+
+## Friday, September 22
+
+### Reading
+
+1. No assigned reading
+
+### Due
+
+[Problem Set 3](/assignment/pset3.qmd)
+
+
+---
+
+
+## Monday, September 25
+
+### Reading
+
+1. *DASS.* Chapter 3: pp. 66-76.
+
+
+
+---
+
+## Wednesday, September 27
+
+### Readings 
+
+1. *DASS.* Chapter 3: pp. 76-97.
+
+
+---
+
+
+## Friday, September 29
+
+### Reading
+
+1. No assigned reading
+
+### Due
+
+[Problem Set 4](/assignment/pset4.qmd)
+ 

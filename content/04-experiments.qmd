@@ -1,0 +1,43 @@
+---
+title: "How Experiments Work"
+---
+
+[//]: <> (Need to write intro)
+
+## Monday, September 11
+
+### Readings 
+
+1. *DASS.* Chapter 2: pp. 27-38.
+
+
+
+
+
+---
+
+
+## Wednesday, September 13
+
+### Readings
+
+1. *DASS.* Chapter 2: pp. 39-50.
+
+
+
+---
+
+
+## Friday, September 15
+
+### Readings
+
+1. No assigned reading
+
+### Due
+
+[Problem Set 2](/assignment/pset2.qmd)
+
+
+
+ 

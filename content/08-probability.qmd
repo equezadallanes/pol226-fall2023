@@ -1,0 +1,69 @@
+---
+title: "Probability"
+---
+
+[//]: <> (Need to write intro)
+
+## Monday, October 30
+
+### Readings 
+
+1. *DASS.* Chapter 6: pp. 162-169.
+
+
+
+---
+
+
+## Wednesday, November 1
+
+### Readings 
+
+1. *DASS.* Chapter 6: pp. 169-179.
+
+
+
+---
+
+
+## Friday, November 3
+
+### Readings 
+
+1. No assigned reading
+
+
+---
+
+
+## Monday, November 6
+
+### Readings 
+
+1. *DASS.* Chapter 6: pp. 179-183.
+
+
+---
+
+
+## Wednesday, November 8
+
+### Readings 
+
+1. *DASS.* Chapter 6: pp. 183-189.
+
+
+---
+
+
+## Friday, November 10
+
+### Reading
+
+1. No assigned reading
+
+### Due
+
+[Problem Set 8](/assignment/pset8.qmd)
+
+ 

@@ -1,0 +1,158 @@
+{
+  "index.qmd": {
+    "index.html": "f8cefac7"
+  },
+  "content/09-religion.qmd": {
+    "09-religion.html": "ef9ce346"
+  },
+  "content/06-partisanship-ideology.qmd": {
+    "06-partisanship-ideology.html": "0e86339b"
+  },
+  "content/12-elections.qmd": {
+    "12-elections.html": "7b4c6da2"
+  },
+  "content/10-immigration.qmd": {
+    "10-immigration.html": "0706b674"
+  },
+  "content/11-representation.qmd": {
+    "11-representation.html": "06e937f3"
+  },
+  "content/01-intro.qmd": {
+    "01-intro.html": "4d3a6257"
+  },
+  "content/index.qmd": {
+    "index.html": "68346fe3"
+  },
+  "content/05-behavior.qmd": {
+    "05-behavior.html": "b5636ec0"
+  },
+  "content/04-history-demographics.qmd": {
+    "04-history-demographics.html": "fce1efb3"
+  },
+  "content/13-perceptions.qmd": {
+    "13-perceptions.html": "086c2ef5"
+  },
+  "content/07-latino-activism.qmd": {
+    "07-latino-activism.html": "8c6c4ab2"
+  },
+  "content/03-politicized-identities.qmd": {
+    "03-politicized-identities.html": "82047c4b"
+  },
+  "content/02-latino-identity.qmd": {
+    "02-latino-identity.html": "b131eb89"
+  },
+  "content/08-participation.qmd": {
+    "08-participation.html": "2811cd0d"
+  },
+  "assignment/literature-review.qmd": {
+    "literature-review.html": "23c77879"
+  },
+  "assignment/final-paper.qmd": {
+    "final-paper.html": "5e25a6c7"
+  },
+  "assignment/oral-presentation.qmd": {
+    "oral-presentation.html": "55e60ab9"
+  },
+  "assignment/research-question.qmd": {
+    "research-question.html": "40729d10"
+  },
+  "assignment/research-design.qmd": {
+    "research-design.html": "3c1508f4"
+  },
+  "assignment/literature-list.qmd": {
+    "literature-list.html": "62d676d4"
+  },
+  "assignment/index.qmd": {
+    "index.html": "0015c5e8"
+  },
+  "assignment/campaign-memo.qmd": {
+    "campaign-memo.html": "8eed0e28"
+  },
+  "resource/citations.qmd": {
+    "citations.html": "e571587d"
+  },
+  "resource/website.qmd": {
+    "website.html": "9557adc7"
+  },
+  "resource/index.qmd": {
+    "index.html": "39844df8"
+  },
+  "resource/reading.qmd": {
+    "reading.html": "3818e3fb"
+  },
+  "resource/writing.qmd": {
+    "writing.html": "6dc10a54"
+  },
+  "resource/summaries.qmd": {
+    "summaries.html": "0cee5eaf"
+  },
+  "resource/journals.qmd": {
+    "journals.html": "28ec7eba"
+  },
+  "schedule.qmd": {
+    "schedule.html": "f44f0f2c"
+  },
+  "assignment/pset6.qmd": {
+    "pset6.html": "b386e082"
+  },
+  "assignment/pset7.qmd": {
+    "pset7.html": "7aa3eae8"
+  },
+  "assignment/pset5.qmd": {
+    "pset5.html": "a2ad7718"
+  },
+  "assignment/final.qmd": {
+    "final.html": "780b880c"
+  },
+  "assignment/pset-extra.qmd": {
+    "pset-extra.html": "b407e4f4"
+  },
+  "assignment/pset4.qmd": {
+    "pset4.html": "dd2ef416"
+  },
+  "assignment/pset1.qmd": {
+    "pset1.html": "deed063c"
+  },
+  "assignment/pset3.qmd": {
+    "pset3.html": "92b2635e"
+  },
+  "assignment/pset2.qmd": {
+    "pset2.html": "ad627ad0"
+  },
+  "assignment/midterm.qmd": {
+    "midterm.html": "49619845"
+  },
+  "assignment/pset9.qmd": {
+    "pset9.html": "7dd7f038"
+  },
+  "assignment/pset8.qmd": {
+    "pset8.html": "66e92c2d"
+  },
+  "content/05-survey.qmd": {
+    "05-survey.html": "ba2cc8a3"
+  },
+  "content/06-linear-regression.qmd": {
+    "06-linear-regression.html": "a1631c12"
+  },
+  "content/07-observational-studies.qmd": {
+    "07-observational-studies.html": "4d513ace"
+  },
+  "content/08-probability.qmd": {
+    "08-probability.html": "dd437d6a"
+  },
+  "content/04-experiments.qmd": {
+    "04-experiments.html": "9e3731aa"
+  },
+  "content/09-uncertainty.qmd": {
+    "09-uncertainty.html": "f6f92e17"
+  },
+  "content/02-approaches.qmd": {
+    "02-approaches.html": "dd756c11"
+  },
+  "content/03-R101.qmd": {
+    "03-R101.html": "c514e5c4"
+  },
+  "resource/r.qmd": {
+    "r.html": "dfe60fd7"
+  }
+}
