@@ -480,21 +480,14 @@
     "href": "assignment/pset1.html",
     "title": "Problem Set 1",
     "section": "",
-    "text": "Important\n\n\n\nDue September 8th at 10:30 am on Canvas"
+    "text": "Important\n\n\n\nDue September 8th at 10:30 am on Canvas\nProblem Set 1 is posted on Canvas. You have two options for how to complete the assignment."
   },
   {
     "objectID": "assignment/pset1.html#purpose",
     "href": "assignment/pset1.html#purpose",
     "title": "Problem Set 1",
     "section": "Purpose",
-    "text": "Purpose"
-  },
-  {
-    "objectID": "assignment/pset1.html#task",
-    "href": "assignment/pset1.html#task",
-    "title": "Problem Set 1",
-    "section": "Task",
-    "text": "Task"
+    "text": "Purpose\nThis first problem set will help you practice:\n\nSetting the working directory\nLoading data into R\nViewing and understanding observations from the dataset\nIdentifying the type of variables you are working with\n\nYou will use the following commands:\n\nsetwd()\n\nread.csv()\n\nhead()\n\ndim()"
   },
   {
     "objectID": "assignment/pset1.html#criteria-for-success",
