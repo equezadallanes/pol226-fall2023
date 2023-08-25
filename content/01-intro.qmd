@@ -23,4 +23,7 @@ During the first week, we will discuss the syllabus and talk about what it means
 ### Readings
 
 1. Gary King, Robert O. Keohane, and Sidney Verba. 1994. *Designing Social Inquiry: Scientific Inference in Qualitative Research.* Princeton: Princeton University Press. Chapter 1: pp 3-19 (stop at section 1.2.2). [{{< fa university >}}](https://search.ebscohost.com/login.aspx?direct=true&AuthType=shib&db=sih&AN=77942604&site=eds-live&scope=site&custid=asc1)
+
+
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](/data/2_Social_Science.pdf)
  
