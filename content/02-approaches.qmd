@@ -10,6 +10,8 @@ title: "Approaches to the Study of Politics"
 
 2. Popper, Karl. 1963 [2001]. "Science: Conjectures and Refutations." In *Philosophy of Science: Contemporary Readings*, eds. Yuri Balashov and Alex Rosenberg, 294-301. London/New York: Routledge. {{< fa file-pdf >}} available on Canvas.
 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](/data/handouts/3_Induction.pdf)
+
 ---
 
 ## Wednesday, August 30
