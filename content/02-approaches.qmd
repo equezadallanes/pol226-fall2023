@@ -18,6 +18,8 @@ title: "Approaches to the Study of Politics"
 
 No additional reading.
 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](/data/handouts/4_Falsificationism.pdf)
+
 ---
  
 ## Friday, September 1
