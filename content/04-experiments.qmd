@@ -11,7 +11,9 @@ title: "How Experiments Work"
 1. *DASS.* Chapter 2: pp. 27-38.
 
 
+### Due
 
+[Problem Set 1](/assignment/pset1.qmd)
 
 
 ---

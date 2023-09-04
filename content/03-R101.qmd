@@ -28,7 +28,7 @@ NO CLASS. Labor Day.
 
 1. *DASS.* Chapter 1: pp. 21-26.
 
-### Due
+### <s>Due</s> - Due date changed. Now due September 11.
 
-[Problem Set 1](/assignment/pset1.qmd)
+<s>[Problem Set 1](/assignment/pset1.qmd)</s>
  
