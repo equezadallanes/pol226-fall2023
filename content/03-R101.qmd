@@ -19,6 +19,9 @@ NO CLASS. Labor Day.
 
 
 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/580679/)
+
+
 ---
 
 
