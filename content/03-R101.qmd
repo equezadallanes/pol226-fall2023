@@ -34,4 +34,13 @@ NO CLASS. Labor Day.
 ### <s>Due</s> - Due date changed. Now due September 11.
 
 <s>[Problem Set 1](/assignment/pset1.qmd)</s>
+
+
+### In-Class Materials
+
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/581842)
+
+
+[exercise_1.R](https://agnesscott.instructure.com/files/581532)
  
+[voting.csv](https://agnesscott.instructure.com/files/581456)
