@@ -536,21 +536,14 @@
     "href": "assignment/pset2.html",
     "title": "Problem Set 2",
     "section": "",
-    "text": "Important\n\n\n\nDue September 15th at 10:30 am on Canvas"
+    "text": "Important\n\n\n\nUPDATED: Due September 15th at 11:59 pm on Canvas\nProblem Set 2 is posted on Canvas. You have two options for how to complete the assignment."
   },
   {
     "objectID": "assignment/pset2.html#purpose",
     "href": "assignment/pset2.html#purpose",
     "title": "Problem Set 2",
     "section": "Purpose",
-    "text": "Purpose"
-  },
-  {
-    "objectID": "assignment/pset2.html#task",
-    "href": "assignment/pset2.html#task",
-    "title": "Problem Set 2",
-    "section": "Task",
-    "text": "Task"
+    "text": "Purpose\nThis second problem set will help you practice:\n\nSetting the working directory\nLoading data into R\nComputing and interpreting the mean of a variable\nIdentifying treatment and outcome variables in a dataset\n\nYou will use the following commands:\n\n# From the previous problem set\nsetwd()\n\nread.csv()\n\n# New in this problem set\nmean()"
   },
   {
     "objectID": "assignment/pset2.html#criteria-for-success",
