@@ -16,6 +16,9 @@ title: "How Experiments Work"
 [Problem Set 1](/assignment/pset1.qmd)
 
 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/583400/)
+
+
 ---
 
 
