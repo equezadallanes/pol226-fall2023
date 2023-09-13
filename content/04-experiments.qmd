@@ -29,6 +29,8 @@ title: "How Experiments Work"
 1. *DASS.* Chapter 2: pp. 39-50.
 
 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/584466/)
+
 
 ---
 
