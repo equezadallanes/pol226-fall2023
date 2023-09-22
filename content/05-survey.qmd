@@ -35,6 +35,10 @@ title: "Working with Survey Data"
 [Problem Set 3](/assignment/pset3.qmd)
 
 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/589796/)
+
+
+
 ---
 
 
