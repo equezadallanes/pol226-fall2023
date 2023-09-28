@@ -3,7 +3,7 @@ title: "Problem Set 4"
 ---
 
 :::{.callout-important}
-UPDATED: Due September 29th at 11:59 pm on Canvas
+UPDATED: Due October 2nd at 11:59 pm on Canvas
 :::
 
 Problem Set 4 is posted on Canvas. You must use the provided RMarkdown file to complete this problem set.
