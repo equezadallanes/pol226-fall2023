@@ -4,7 +4,7 @@ title: "Probability"
 
 [//]: <> (Need to write intro)
 
-## Monday, October 30
+## Wednesday, November 1
 
 ### Readings 
 
@@ -15,22 +15,16 @@ title: "Probability"
 ---
 
 
-## Wednesday, November 1
+## Friday, November 3
 
 ### Readings 
 
 1. *DASS.* Chapter 6: pp. 169-179.
 
 
+### Due
 
----
-
-
-## Friday, November 3
-
-### Readings 
-
-1. No assigned reading
+[Problem Set 7](/assignment/pset7.qmd)
 
 
 ---

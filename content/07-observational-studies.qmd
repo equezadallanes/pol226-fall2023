@@ -4,7 +4,7 @@ title: "Observational Studies"
 
 [//]: <> (Need to write intro)
 
-## Monday, October 16
+## Monday, October 23
 
 ### Readings 
 
@@ -14,7 +14,7 @@ title: "Observational Studies"
 ---
 
 
-## Wednesday, October 18
+## Wednesday, October 25
 
 ### Readings 
 
@@ -24,11 +24,11 @@ title: "Observational Studies"
 ---
 
 
-## Friday, October 20
+## Friday, October 27
 
 ### Reading
 
-1. No assigned reading
+1. *DASS.* Chapter 5: pp. 147-153.
 
 ### Due
 
@@ -38,35 +38,12 @@ title: "Observational Studies"
 ---
 
 
-## Monday, October 23
-
-### Readings 
-
-1. *DASS.* Chapter 5: pp. 147-153.
-
-
-
-
----
-
-
-## Wednesday, October 25
+## Monday, October 30
 
 ### Readings 
 
 1. *DASS.* Chapter 5: pp. 153-161.
 
 
----
 
-
-## Friday, October 27
-
-### Reading
-
-1. No assigned reading
-
-### Due
-
-[Problem Set 7](/assignment/pset7.qmd)
  

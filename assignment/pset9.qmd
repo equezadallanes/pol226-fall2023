@@ -3,7 +3,7 @@ title: "Problem Set 9"
 ---
 
 :::{.callout-important}
-Due November 20th at 10:30 am on Canvas
+Due November 20th at 11:59 pm on Canvas
 :::
 
 ## Purpose

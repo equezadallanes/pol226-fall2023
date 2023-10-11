@@ -4,7 +4,7 @@ title: "Making Predictions with Linear Regression"
 
 [//]: <> (Need to write intro)
 
-## Monday, October 2
+## Friday, October 13
 
 ### Readings 
 
@@ -14,7 +14,7 @@ title: "Making Predictions with Linear Regression"
 ---
 
 
-## Wednesday, October 4
+## Monday, October 16
 
 ### Readings 
 
@@ -24,32 +24,18 @@ title: "Making Predictions with Linear Regression"
 ---
 
 
-## Friday, October 6
-
-[Midterm Exam](/assignment/midterm)
-
-
----
-
-## Monday, October 9
-
-NO CLASS. Fall Break.
-
-
----
-
-
-## Wednesday, October 11
+## Wednesday, October 18
 
 ### Readings 
 
 1. *DASS.* Chapter 4: pp. 116-23, 126-8.
 
 
+
+
 ---
 
-
-## Friday, October 13
+## Friday, October 20
 
 ### Reading
 
@@ -58,7 +44,6 @@ NO CLASS. Fall Break.
 ### Due
 
 [Problem Set 5](/assignment/pset5.qmd)
-
 
 
  

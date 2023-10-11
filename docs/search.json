@@ -25,7 +25,7 @@
     "href": "assignment/pset8.html",
     "title": "Problem Set 8",
     "section": "",
-    "text": "Important\n\n\n\nDue November 10th at 10:30 am on Canvas"
+    "text": "Important\n\n\n\nDue November 10th at 11:59 am on Canvas"
   },
   {
     "objectID": "assignment/pset8.html#purpose",
@@ -144,7 +144,7 @@
     "href": "assignment/pset5.html",
     "title": "Problem Set 5",
     "section": "",
-    "text": "Important\n\n\n\nDue October 13th at 10:30 am on Canvas"
+    "text": "Important\n\n\n\nDue October 20th at 11:59 pm on Canvas"
   },
   {
     "objectID": "assignment/pset5.html#purpose",
@@ -172,7 +172,7 @@
     "href": "assignment/pset6.html",
     "title": "Problem Set 6",
     "section": "",
-    "text": "Important\n\n\n\nDue October 20th at 10:30 am on Canvas"
+    "text": "Important\n\n\n\nDue October 27th at 11:59 pm on Canvas"
   },
   {
     "objectID": "assignment/pset6.html#purpose",
@@ -259,46 +259,32 @@
     "text": "DASS. Chapter 5: pp. 129-134."
   },
   {
-    "objectID": "content/07-observational-studies.html#monday-october-16",
-    "href": "content/07-observational-studies.html#monday-october-16",
-    "title": "Observational Studies",
-    "section": "",
-    "text": "DASS. Chapter 5: pp. 129-134."
-  },
-  {
-    "objectID": "content/07-observational-studies.html#wednesday-october-18",
-    "href": "content/07-observational-studies.html#wednesday-october-18",
-    "title": "Observational Studies",
-    "section": "Wednesday, October 18",
-    "text": "Wednesday, October 18\n\nReadings\n\nDASS. Chapter 5: pp. 135-147."
-  },
-  {
-    "objectID": "content/07-observational-studies.html#friday-october-20",
-    "href": "content/07-observational-studies.html#friday-october-20",
-    "title": "Observational Studies",
-    "section": "Friday, October 20",
-    "text": "Friday, October 20\n\nReading\n\nNo assigned reading\n\n\n\nDue\nProblem Set 6"
-  },
-  {
     "objectID": "content/07-observational-studies.html#monday-october-23",
     "href": "content/07-observational-studies.html#monday-october-23",
     "title": "Observational Studies",
-    "section": "Monday, October 23",
-    "text": "Monday, October 23\n\nReadings\n\nDASS. Chapter 5: pp. 147-153."
+    "section": "",
+    "text": "DASS. Chapter 5: pp. 129-134."
   },
   {
     "objectID": "content/07-observational-studies.html#wednesday-october-25",
     "href": "content/07-observational-studies.html#wednesday-october-25",
     "title": "Observational Studies",
     "section": "Wednesday, October 25",
-    "text": "Wednesday, October 25\n\nReadings\n\nDASS. Chapter 5: pp. 153-161."
+    "text": "Wednesday, October 25\n\nReadings\n\nDASS. Chapter 5: pp. 135-147."
   },
   {
     "objectID": "content/07-observational-studies.html#friday-october-27",
     "href": "content/07-observational-studies.html#friday-october-27",
     "title": "Observational Studies",
     "section": "Friday, October 27",
-    "text": "Friday, October 27\n\nReading\n\nNo assigned reading\n\n\n\nDue\nProblem Set 7"
+    "text": "Friday, October 27\n\nReading\n\nDASS. Chapter 5: pp. 147-153.\n\n\n\nDue\nProblem Set 6"
+  },
+  {
+    "objectID": "content/07-observational-studies.html#monday-october-30",
+    "href": "content/07-observational-studies.html#monday-october-30",
+    "title": "Observational Studies",
+    "section": "Monday, October 30",
+    "text": "Monday, October 30\n\nReadings\n\nDASS. Chapter 5: pp. 153-161."
   },
   {
     "objectID": "content/01-intro.html",
@@ -378,46 +364,32 @@
     "text": "1.DASS. Chapter 4: pp. 98-107."
   },
   {
-    "objectID": "content/06-linear-regression.html#monday-october-2",
-    "href": "content/06-linear-regression.html#monday-october-2",
+    "objectID": "content/06-linear-regression.html#friday-october-13",
+    "href": "content/06-linear-regression.html#friday-october-13",
     "title": "Making Predictions with Linear Regression",
     "section": "",
     "text": "1.DASS. Chapter 4: pp. 98-107."
   },
   {
-    "objectID": "content/06-linear-regression.html#wednesday-october-4",
-    "href": "content/06-linear-regression.html#wednesday-october-4",
+    "objectID": "content/06-linear-regression.html#monday-october-16",
+    "href": "content/06-linear-regression.html#monday-october-16",
     "title": "Making Predictions with Linear Regression",
-    "section": "Wednesday, October 4",
-    "text": "Wednesday, October 4\n\nReadings\n\nDASS. Chapter 4: pp. 107-116."
+    "section": "Monday, October 16",
+    "text": "Monday, October 16\n\nReadings\n\nDASS. Chapter 4: pp. 107-116."
   },
   {
-    "objectID": "content/06-linear-regression.html#friday-october-6",
-    "href": "content/06-linear-regression.html#friday-october-6",
+    "objectID": "content/06-linear-regression.html#wednesday-october-18",
+    "href": "content/06-linear-regression.html#wednesday-october-18",
     "title": "Making Predictions with Linear Regression",
-    "section": "Friday, October 6",
-    "text": "Friday, October 6\nMidterm Exam"
+    "section": "Wednesday, October 18",
+    "text": "Wednesday, October 18\n\nReadings\n\nDASS. Chapter 4: pp. 116-23, 126-8."
   },
   {
-    "objectID": "content/06-linear-regression.html#monday-october-9",
-    "href": "content/06-linear-regression.html#monday-october-9",
+    "objectID": "content/06-linear-regression.html#friday-october-20",
+    "href": "content/06-linear-regression.html#friday-october-20",
     "title": "Making Predictions with Linear Regression",
-    "section": "Monday, October 9",
-    "text": "Monday, October 9\nNO CLASS. Fall Break."
-  },
-  {
-    "objectID": "content/06-linear-regression.html#wednesday-october-11",
-    "href": "content/06-linear-regression.html#wednesday-october-11",
-    "title": "Making Predictions with Linear Regression",
-    "section": "Wednesday, October 11",
-    "text": "Wednesday, October 11\n\nReadings\n\nDASS. Chapter 4: pp. 116-23, 126-8."
-  },
-  {
-    "objectID": "content/06-linear-regression.html#friday-october-13",
-    "href": "content/06-linear-regression.html#friday-october-13",
-    "title": "Making Predictions with Linear Regression",
-    "section": "Friday, October 13",
-    "text": "Friday, October 13\n\nReading\n\nNo assigned reading\n\n\n\nDue\nProblem Set 5"
+    "section": "Friday, October 20",
+    "text": "Friday, October 20\n\nReading\n\nNo assigned reading\n\n\n\nDue\nProblem Set 5"
   },
   {
     "objectID": "content/index.html",
@@ -434,25 +406,18 @@
     "text": "DASS. Chapter 6: pp. 162-169."
   },
   {
-    "objectID": "content/08-probability.html#monday-october-30",
-    "href": "content/08-probability.html#monday-october-30",
-    "title": "Probability",
-    "section": "",
-    "text": "DASS. Chapter 6: pp. 162-169."
-  },
-  {
     "objectID": "content/08-probability.html#wednesday-november-1",
     "href": "content/08-probability.html#wednesday-november-1",
     "title": "Probability",
-    "section": "Wednesday, November 1",
-    "text": "Wednesday, November 1\n\nReadings\n\nDASS. Chapter 6: pp. 169-179."
+    "section": "",
+    "text": "DASS. Chapter 6: pp. 162-169."
   },
   {
     "objectID": "content/08-probability.html#friday-november-3",
     "href": "content/08-probability.html#friday-november-3",
     "title": "Probability",
     "section": "Friday, November 3",
-    "text": "Friday, November 3\n\nReadings\n\nNo assigned reading"
+    "text": "Friday, November 3\n\nReadings\n\nDASS. Chapter 6: pp. 169-179.\n\n\n\nDue\nProblem Set 7"
   },
   {
     "objectID": "content/08-probability.html#monday-november-6",
@@ -564,7 +529,7 @@
     "href": "assignment/pset7.html",
     "title": "Problem Set 7",
     "section": "",
-    "text": "Important\n\n\n\nDue October 27th at 10:30 am on Canvas"
+    "text": "Important\n\n\n\nDue November 3rd at 11:59 pm on Canvas"
   },
   {
     "objectID": "assignment/pset7.html#purpose",
@@ -704,7 +669,7 @@
     "href": "assignment/pset9.html",
     "title": "Problem Set 9",
     "section": "",
-    "text": "Important\n\n\n\nDue November 20th at 10:30 am on Canvas"
+    "text": "Important\n\n\n\nDue November 20th at 11:59 pm on Canvas"
   },
   {
     "objectID": "assignment/pset9.html#purpose",
