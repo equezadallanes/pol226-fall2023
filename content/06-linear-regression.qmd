@@ -11,6 +11,9 @@ title: "Making Predictions with Linear Regression"
 1.*DASS.* Chapter 4: pp. 98-107.
 
 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/602448/)
+
+
 ---
 
 
@@ -19,6 +22,9 @@ title: "Making Predictions with Linear Regression"
 ### Readings 
 
 1. *DASS.* Chapter 4: pp. 107-116.
+
+
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/602449/)
 
 
 ---
@@ -31,6 +37,7 @@ title: "Making Predictions with Linear Regression"
 1. *DASS.* Chapter 4: pp. 116-23, 126-8.
 
 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/602450/)
 
 
 ---
