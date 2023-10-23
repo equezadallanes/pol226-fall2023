@@ -10,6 +10,8 @@ title: "Observational Studies"
 
 1. *DASS.* Chapter 5: pp. 129-134.
 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/604490/)
+
 
 ---
 
