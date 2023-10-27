@@ -1,119 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pol226.fall23.equezadallanes.com/schedule.html</loc>
-    <lastmod>2023-10-23T16:08:00.710Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pol226.fall23.equezadallanes.com/resource/reading.html</loc>
-    <lastmod>2023-10-23T16:07:57.884Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pol226.fall23.equezadallanes.com/resource/website.html</loc>
-    <lastmod>2023-10-23T16:07:57.283Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pol226.fall23.equezadallanes.com/assignment/pset8.html</loc>
-    <lastmod>2023-10-23T16:07:55.398Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pol226.fall23.equezadallanes.com/assignment/midterm.html</loc>
-    <lastmod>2023-10-23T16:07:54.774Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pol226.fall23.equezadallanes.com/assignment/index.html</loc>
-    <lastmod>2023-10-23T16:07:53.310Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pol226.fall23.equezadallanes.com/assignment/pset1.html</loc>
-    <lastmod>2023-10-23T16:07:51.877Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pol226.fall23.equezadallanes.com/assignment/pset-extra.html</loc>
-    <lastmod>2023-10-23T16:07:49.526Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pol226.fall23.equezadallanes.com/assignment/pset5.html</loc>
-    <lastmod>2023-10-23T16:07:48.900Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pol226.fall23.equezadallanes.com/assignment/pset6.html</loc>
-    <lastmod>2023-10-23T16:07:47.474Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pol226.fall23.equezadallanes.com/content/02-approaches.html</loc>
-    <lastmod>2023-10-23T16:07:45.840Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pol226.fall23.equezadallanes.com/content/04-experiments.html</loc>
-    <lastmod>2023-10-23T16:07:45.202Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pol226.fall23.equezadallanes.com/content/07-observational-studies.html</loc>
-    <lastmod>2023-10-23T16:07:44.575Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pol226.fall23.equezadallanes.com/content/01-intro.html</loc>
-    <lastmod>2023-10-23T16:07:43.970Z</lastmod>
-  </url>
-  <url>
     <loc>https://pol226.fall23.equezadallanes.com/content/05-survey.html</loc>
-    <lastmod>2023-10-23T16:07:43.292Z</lastmod>
+    <lastmod>2023-10-27T14:31:06.080Z</lastmod>
   </url>
   <url>
     <loc>https://pol226.fall23.equezadallanes.com/content/06-linear-regression.html</loc>
-    <lastmod>2023-10-23T16:07:43.633Z</lastmod>
+    <lastmod>2023-10-27T14:31:06.431Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pol226.fall23.equezadallanes.com/content/01-intro.html</loc>
+    <lastmod>2023-10-27T14:31:06.769Z</lastmod>
   </url>
   <url>
     <loc>https://pol226.fall23.equezadallanes.com/content/index.html</loc>
-    <lastmod>2023-10-23T16:07:44.267Z</lastmod>
+    <lastmod>2023-10-27T14:31:07.095Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pol226.fall23.equezadallanes.com/content/07-observational-studies.html</loc>
+    <lastmod>2023-10-27T14:31:07.410Z</lastmod>
   </url>
   <url>
     <loc>https://pol226.fall23.equezadallanes.com/content/08-probability.html</loc>
-    <lastmod>2023-10-23T16:07:44.881Z</lastmod>
+    <lastmod>2023-10-27T14:31:07.738Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pol226.fall23.equezadallanes.com/content/04-experiments.html</loc>
+    <lastmod>2023-10-27T14:31:08.063Z</lastmod>
   </url>
   <url>
     <loc>https://pol226.fall23.equezadallanes.com/content/09-uncertainty.html</loc>
-    <lastmod>2023-10-23T16:07:45.521Z</lastmod>
+    <lastmod>2023-10-27T14:31:08.385Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pol226.fall23.equezadallanes.com/content/02-approaches.html</loc>
+    <lastmod>2023-10-27T14:31:08.722Z</lastmod>
   </url>
   <url>
     <loc>https://pol226.fall23.equezadallanes.com/content/03-R101.html</loc>
-    <lastmod>2023-10-23T16:07:46.162Z</lastmod>
+    <lastmod>2023-10-27T14:31:09.053Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pol226.fall23.equezadallanes.com/assignment/pset6.html</loc>
+    <lastmod>2023-10-27T14:31:10.261Z</lastmod>
   </url>
   <url>
     <loc>https://pol226.fall23.equezadallanes.com/assignment/pset7.html</loc>
-    <lastmod>2023-10-23T16:07:47.779Z</lastmod>
+    <lastmod>2023-10-27T14:31:10.591Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pol226.fall23.equezadallanes.com/assignment/pset5.html</loc>
+    <lastmod>2023-10-27T14:31:11.572Z</lastmod>
   </url>
   <url>
     <loc>https://pol226.fall23.equezadallanes.com/assignment/final.html</loc>
-    <lastmod>2023-10-23T16:07:49.222Z</lastmod>
+    <lastmod>2023-10-27T14:31:11.906Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pol226.fall23.equezadallanes.com/assignment/pset-extra.html</loc>
+    <lastmod>2023-10-27T14:31:12.241Z</lastmod>
   </url>
   <url>
     <loc>https://pol226.fall23.equezadallanes.com/assignment/pset4.html</loc>
-    <lastmod>2023-10-23T16:07:50.676Z</lastmod>
+    <lastmod>2023-10-27T14:31:13.173Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pol226.fall23.equezadallanes.com/assignment/pset1.html</loc>
+    <lastmod>2023-10-27T14:31:14.135Z</lastmod>
   </url>
   <url>
     <loc>https://pol226.fall23.equezadallanes.com/assignment/pset3.html</loc>
-    <lastmod>2023-10-23T16:07:53.019Z</lastmod>
+    <lastmod>2023-10-27T14:31:15.099Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pol226.fall23.equezadallanes.com/assignment/index.html</loc>
+    <lastmod>2023-10-27T14:31:15.433Z</lastmod>
   </url>
   <url>
     <loc>https://pol226.fall23.equezadallanes.com/assignment/pset2.html</loc>
-    <lastmod>2023-10-23T16:07:54.460Z</lastmod>
+    <lastmod>2023-10-27T14:31:16.440Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pol226.fall23.equezadallanes.com/assignment/midterm.html</loc>
+    <lastmod>2023-10-27T14:31:16.759Z</lastmod>
   </url>
   <url>
     <loc>https://pol226.fall23.equezadallanes.com/assignment/pset9.html</loc>
-    <lastmod>2023-10-23T16:07:55.081Z</lastmod>
+    <lastmod>2023-10-27T14:31:17.078Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pol226.fall23.equezadallanes.com/assignment/pset8.html</loc>
+    <lastmod>2023-10-27T14:31:17.391Z</lastmod>
   </url>
   <url>
     <loc>https://pol226.fall23.equezadallanes.com/index.html</loc>
-    <lastmod>2023-10-23T16:07:56.974Z</lastmod>
+    <lastmod>2023-10-27T14:31:18.583Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pol226.fall23.equezadallanes.com/resource/website.html</loc>
+    <lastmod>2023-10-27T14:31:18.900Z</lastmod>
   </url>
   <url>
     <loc>https://pol226.fall23.equezadallanes.com/resource/index.html</loc>
-    <lastmod>2023-10-23T16:07:57.580Z</lastmod>
+    <lastmod>2023-10-27T14:31:19.236Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pol226.fall23.equezadallanes.com/resource/reading.html</loc>
+    <lastmod>2023-10-27T14:31:19.563Z</lastmod>
   </url>
   <url>
     <loc>https://pol226.fall23.equezadallanes.com/resource/r.html</loc>
-    <lastmod>2023-10-23T16:07:58.160Z</lastmod>
+    <lastmod>2023-10-27T14:31:19.869Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pol226.fall23.equezadallanes.com/schedule.html</loc>
+    <lastmod>2023-10-27T14:31:21.892Z</lastmod>
   </url>
 </urlset>
