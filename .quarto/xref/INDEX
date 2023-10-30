@@ -154,5 +154,8 @@
   },
   "resource/r.qmd": {
     "r.html": "dfe60fd7"
+  },
+  "resource/step-by-step.qmd": {
+    "step-by-step.html": "9aa8b195"
   }
 }

@@ -298,28 +298,21 @@
     "href": "assignment/pset7.html",
     "title": "Problem Set 7",
     "section": "",
-    "text": "Important\n\n\n\nDue November 3rd at 11:59 pm on Canvas"
+    "text": "Important\n\n\n\nDue November 3rd at 11:59 pm on Canvas\nProblem Set 7 is posted on Canvas. You must use the provided RMarkdown file to complete this problem set.\nIf you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer."
   },
   {
     "objectID": "assignment/pset7.html#purpose",
     "href": "assignment/pset7.html#purpose",
     "title": "Problem Set 7",
     "section": "Purpose",
-    "text": "Purpose"
-  },
-  {
-    "objectID": "assignment/pset7.html#task",
-    "href": "assignment/pset7.html#task",
-    "title": "Problem Set 7",
-    "section": "Task",
-    "text": "Task"
+    "text": "Purpose\nThis problem set will help you practice:\n\nDetermining whether a study uses experimental or observational data\nIdentify the average treatment effect in a study\nAssess the internal and external validity of a study"
   },
   {
     "objectID": "assignment/pset7.html#criteria-for-success",
     "href": "assignment/pset7.html#criteria-for-success",
     "title": "Problem Set 7",
     "section": "Criteria for success",
-    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing"
+    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material"
   },
   {
     "objectID": "assignment/pset5.html",
@@ -705,6 +698,13 @@
     "title": "Reading Political Science",
     "section": "",
     "text": "For this course, you will be required to read journal articles and book chapters that political scientists write for other political scientists (or other social scientists). Even beyond this course, you have probably already encountered academic texts that are different from that which you find in popular media.\nThe following two readings can help you read these pieces more efficiently.\n\nBurke, Timothy. “How to Read in College.” Blog post. \nHoover Green, Amelia. 2013. “How to Read Political Science: A Guide in Four Steps.”"
+  },
+  {
+    "objectID": "resource/step-by-step.html",
+    "href": "resource/step-by-step.html",
+    "title": "A Step-by-Step Guide for Research Design",
+    "section": "",
+    "text": "Coming up with a good research question and design is not a simple process. For this reason, you may do some of the things discussed here in a different order.\n\nStep 1: Develop a Research Question\nThis may perhaps the most difficult step in the research process and one where guidance is also the most difficult to provide. For our current purposes, let’s assume you have a question. Let’s use the following one as an example:\n\nDoes being religious make an individual more likely to vote?\n\nThis is a similar question to one that scholars interested on the intersection of religion and politics have asked (albeit a bit differently).\nOnce you have a research question, make sure you can identify: 1. The outcome of interest (conceptually, you don’t need to measure yet) 2. The explanatory concept (how are you trying to explain a change in the outcome? What’s having an effect on the outcome?)\nIn this example, the answers are (1) turning out to vote and (2) being religious\n\n\nStep 2"
   },
   {
     "objectID": "resource/r.html",
