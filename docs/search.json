@@ -137,7 +137,7 @@
     "href": "content/08-probability.html#friday-november-3",
     "title": "Probability",
     "section": "Friday, November 3",
-    "text": "Friday, November 3\n\nReadings\n\nDASS. Chapter 6: pp. 169-179.\n\n\n\nDue\nProblem Set 7"
+    "text": "Friday, November 3\n\nReadings\n\nDASS. Chapter 6: pp. 169-179.\n\n PDF of slides \n\n\nDue\nProblem Set 7"
   },
   {
     "objectID": "content/08-probability.html#monday-november-6",
@@ -543,28 +543,14 @@
     "href": "assignment/pset8.html",
     "title": "Problem Set 8",
     "section": "",
-    "text": "Important\n\n\n\nDue November 10th at 11:59 am on Canvas"
+    "text": "Important\n\n\n\nDue November 10th at 11:59 am on Canvas\nProblem Set 8 is posted on Canvas. You can either use the provided RMarkdown file to complete this problem set or fill it out by hand and submit on Canvas.\nIf you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer."
   },
   {
     "objectID": "assignment/pset8.html#purpose",
     "href": "assignment/pset8.html#purpose",
     "title": "Problem Set 8",
     "section": "Purpose",
-    "text": "Purpose"
-  },
-  {
-    "objectID": "assignment/pset8.html#task",
-    "href": "assignment/pset8.html#task",
-    "title": "Problem Set 8",
-    "section": "Task",
-    "text": "Task"
-  },
-  {
-    "objectID": "assignment/pset8.html#criteria-for-success",
-    "href": "assignment/pset8.html#criteria-for-success",
-    "title": "Problem Set 8",
-    "section": "Criteria for success",
-    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing"
+    "text": "Purpose\nThis problem set will help you asses your knowledge about:\n\nRandom variables\nBernoulli and normal distributions\nMathematical notation of probability distributions\nSample variability\nThe Law of Large Numbers and the Central Limit Theorem"
   },
   {
     "objectID": "index.html",
