@@ -51,6 +51,9 @@ title: "Probability"
 1. *DASS.* Chapter 6: pp. 183-189.
 
 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/614468/download?download_frd=1)
+
+
 ---
 
 

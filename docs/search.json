@@ -151,7 +151,7 @@
     "href": "content/08-probability.html#wednesday-november-8",
     "title": "Probability",
     "section": "Wednesday, November 8",
-    "text": "Wednesday, November 8\n\nReadings\n\nDASS. Chapter 6: pp. 183-189."
+    "text": "Wednesday, November 8\n\nReadings\n\nDASS. Chapter 6: pp. 183-189.\n\n PDF of slides"
   },
   {
     "objectID": "content/08-probability.html#friday-november-10",
@@ -186,7 +186,7 @@
     "href": "content/09-uncertainty.html",
     "title": "Dealing with Uncertainty",
     "section": "",
-    "text": "DASS. Chapter 7: pp. 196-203."
+    "text": "DASS. Chapter 7: pp. 196-203.\n\n PDF of slides"
   },
   {
     "objectID": "content/09-uncertainty.html#wednesday-november-15",
@@ -515,21 +515,14 @@
     "href": "assignment/pset9.html",
     "title": "Problem Set 9",
     "section": "",
-    "text": "Important\n\n\n\nDue November 20th at 11:59 pm on Canvas"
+    "text": "Important\n\n\n\nDue November 20th at 11:59 pm on Canvas\nProblem Set 9 is posted on Canvas. If you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer."
   },
   {
     "objectID": "assignment/pset9.html#purpose",
     "href": "assignment/pset9.html#purpose",
     "title": "Problem Set 9",
     "section": "Purpose",
-    "text": "Purpose"
-  },
-  {
-    "objectID": "assignment/pset9.html#task",
-    "href": "assignment/pset9.html#task",
-    "title": "Problem Set 9",
-    "section": "Task",
-    "text": "Task"
+    "text": "Purpose\nThis problem set will help you asses your knowledge about:\n\nHypothesis testing\nP-values\nUsing linear regression to estimate causal effects"
   },
   {
     "objectID": "assignment/pset9.html#criteria-for-success",

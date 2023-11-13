@@ -6,11 +6,22 @@ title: "Problem Set 9"
 Due November 20th at 11:59 pm on Canvas
 :::
 
+Problem Set 9 is posted on Canvas. If you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer.
+
+### Files
+
+1. [Problem Set - PDF](https://agnesscott.instructure.com/files/614834/download?download_frd=1)
+2. [RMardown file](https://agnesscott.instructure.com/files/614833/download?download_frd=1)
+
+
+
 ## Purpose
 
+This problem set will help you asses your knowledge about:
 
-
-## Task
+1. Hypothesis testing
+2. P-values
+3. Using linear regression to estimate causal effects
 
 
 
