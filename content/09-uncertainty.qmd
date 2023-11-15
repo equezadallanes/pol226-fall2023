@@ -10,7 +10,7 @@ title: "Dealing with Uncertainty"
 
 1. *DASS.* Chapter 7: pp. 196-203.
 
-[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/615065/download?download_frd=1)
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/616669/download?download_frd=1)
 
 
 
@@ -23,6 +23,9 @@ title: "Dealing with Uncertainty"
 ### Readings 
 
 1. *DASS.* Chapter 7: pp. 202-211.
+
+
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/616645/download?download_frd=1)
 
 
 ---
