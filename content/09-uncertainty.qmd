@@ -38,6 +38,9 @@ title: "Dealing with Uncertainty"
 1. No assigned reading
 
 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/617905/download?download_frd=1)
+
+
 ---
 
 ## Thanksgiving Break
