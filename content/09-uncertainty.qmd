@@ -71,6 +71,11 @@ NO CLASS: November 20-26
 
 1. *DASS.* Chapter 7: pp. 219-229.
 
+
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/621284/download?download_frd=1)
+
+See also exercise_7.R on Canvas
+
 ---
 
 

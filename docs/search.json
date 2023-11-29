@@ -368,7 +368,7 @@
     "href": "content/09-uncertainty.html#wednesday-november-29",
     "title": "Dealing with Uncertainty",
     "section": "Wednesday, November 29",
-    "text": "Wednesday, November 29\n\nReading\n\nDASS. Chapter 7: pp. 219-229."
+    "text": "Wednesday, November 29\n\nReading\n\nDASS. Chapter 7: pp. 219-229.\n\n PDF of slides \nSee also exercise_7.R on Canvas"
   },
   {
     "objectID": "content/09-uncertainty.html#friday-december-1",
@@ -683,21 +683,14 @@
     "href": "assignment/pset-extra.html",
     "title": "Problem Set - Extra Credit",
     "section": "",
-    "text": "Important\n\n\n\nDue December 1st at 10:30 am on Canvas"
+    "text": "Important\n\n\n\nUPDATED: Due December 4th at 10:30 am on Canvas\nThe extra credit problem set is posted on Canvas. If you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer."
   },
   {
     "objectID": "assignment/pset-extra.html#purpose",
     "href": "assignment/pset-extra.html#purpose",
     "title": "Problem Set - Extra Credit",
     "section": "Purpose",
-    "text": "Purpose"
-  },
-  {
-    "objectID": "assignment/pset-extra.html#task",
-    "href": "assignment/pset-extra.html#task",
-    "title": "Problem Set - Extra Credit",
-    "section": "Task",
-    "text": "Task"
+    "text": "Purpose\nThis problem set will help you asses your knowledge about:\n\nEstimating average treatment effects with linear regression\nAssess the statistical significance of the results\nEvaluate the internal and external validity of a study"
   },
   {
     "objectID": "assignment/pset-extra.html#criteria-for-success",
